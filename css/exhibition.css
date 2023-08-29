@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-color: #08e8ff;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+.header {
+    height: 65px;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 24px;
+}
+
+/* Exhibition page banner */
+.banner {
+    background: url('../images/exhibitionbanner.jpg');
+    background-size: cover;
+    width: auto;
+    height: 400px;
+    text-align: center;
+    font-size: 52px;
+    padding-top: 75px;
+    color: black;
+}
+
+/* Exhibition page content */
+.content {
+    min-height: 500px;
+    padding: 50px;
+    font-size: 18px;
+    background-color: white;
+    color: black;
+}
+
+.footer {
+    width: 100%;
+    height: 120px;
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: #1806e8;
+}
